@@ -1,0 +1,3 @@
+# creds.py
+api_public_key = "project_public_ba423eea39447cf6c01e2b78eb45b80a_Q5HvLf46816bfa2c7c9a83709904dce7c19f1"
+api_secret_key = "secret_key_55ebf94acdc58f8b15436ccec96c816e_Zk2yc05165438f0de1e6f836494d202f60984"
